@@ -168,10 +168,10 @@ ul li{
 }
 .carousel-indicators li{
 	background-color: transparent;
-	border:3px solid #fff !important;
+	border:3px solid #212529 !important;
 }
 .carousel-indicators .active{
-	background-color: #fff !important;
+	background-color: #fff ;
 }
 .carousel-indicators{
 	bottom: 14px !important;
