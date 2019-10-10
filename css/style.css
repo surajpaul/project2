@@ -1,6 +1,18 @@
 html{
 	scroll-behavior: smooth;
 }
+.roboto{
+	font-family: 'Roboto', sans-serif;
+}
+.pt-facebook > p > a > i > span{
+	font-family: 'Roboto', sans-serif;	
+}
+.pt-twitter > p > a > i > span{
+	font-family: 'Roboto', sans-serif;	
+}
+.pt- > p > a > i > span{
+	font-family: 'Roboto', sans-serif;	
+}
 .bg-tree{
 	background-image: url('../img/Tree.png');background-repeat: no-repeat;background-size: 110%;background-position: 20px 80px;
 }
